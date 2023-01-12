@@ -1,0 +1,3 @@
+Aqui ficarão arquivos gerais, 
+que contenham informações pertinentes para todo o projeto,
+separados por arquivos .robot
